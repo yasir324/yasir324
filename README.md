@@ -91,6 +91,4 @@ Konfigurasikan PostgreSQL dan MongoDB dengan skema yang sesuai untuk mendukung a
 ### 4. Jalankan Aplikasi
 Aplikasi sekarang dapat diakses melalui browser di `http://localhost:4200` untuk frontend dan `http://localhost:8080` untuk backend API.
 
-## Pengembangan dan Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini, buat fitur baru di branch terpisah, dan kirimkan pull request.
 
