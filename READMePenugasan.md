@@ -38,7 +38,7 @@ Proyek **Security Home dengan IoT** adalah solusi keamanan rumah berbasis Intern
 
 ## Instalasi dan Penggunaan
 
-### Prasyarat
+### Hal yang dibutuhkan
 - Java 11 atau lebih baru
 - Node.js dan npm
 - Docker (untuk RabbitMQ dan MongoDB)
