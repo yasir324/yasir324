@@ -1,4 +1,4 @@
-# Security Home dengan IoT
+# Smart Security Home
 
 ## Deskripsi Proyek
 Proyek **Security Home dengan IoT** adalah solusi keamanan rumah berbasis Internet of Things (IoT) yang memungkinkan pemilik rumah memantau dan mengelola sistem keamanan dari jarak jauh melalui aplikasi web dan mobile. Sistem ini dilengkapi dengan fitur canggih untuk melindungi rumah dari ancaman.
@@ -49,6 +49,6 @@ Proyek **Security Home dengan IoT** adalah solusi keamanan rumah berbasis Intern
 Proyek Security Home dengan IoT menawarkan sistem keamanan rumah yang canggih dan fleksibel, memanfaatkan teknologi IoT untuk memberikan pemilik rumah kendali penuh atas keamanan mereka. Dengan fitur notifikasi real-time dan manajemen perangkat yang efisien, proyek ini menjawab kebutuhan akan sistem keamanan modern yang dapat diakses dari mana saja.
 
 
-##Source
+## Source
 https://github.com/njmarko/smart-secure-home
 
